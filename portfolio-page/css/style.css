@@ -1,0 +1,23 @@
+@font-face {
+font-family: Arciform;
+src: url("../font/Arciform.otf") format("opentype");
+}
+
+@font-face {
+font-family: Arciform;
+font-weight: bold;
+src: url("../font/Arciform.otf") format("opentype");
+}
+body {
+    
+    font-family: "Arciform","Open Sans";
+    
+
+}
+#menu{
+color: blue;
+
+}
+p, li {
+color: black;
+}
